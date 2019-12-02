@@ -1,0 +1,20 @@
+SMAP
+home_jsp.java
+JSP
+*S JSP
+*F
++ 0 home.jsp
+LevelIncharge/home.jsp
++ 1 footer.jsp
+LevelIncharge/../adminpageparts/footer.jsp
+*L
+5,88:50
+92,10:138
+101,15:148
+116,3:164
+118,28:167
+146,27:196
+172,10:223
+1#1,11:233
+181#0,6:243
+*E

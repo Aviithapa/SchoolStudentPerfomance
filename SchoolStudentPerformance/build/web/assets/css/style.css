@@ -1,0 +1,102 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 30, 2019, 9:19:23 PM
+    Author     : Lenovo
+*/
+root 
+{ 
+    display: block;
+}
+
+#header{
+    background: #003153;
+    padding-left:20px;
+    padding-top:10px;
+    height:150px; 
+    clear:both;
+    color:white;
+    width:98.7%;  
+}
+#header h1{
+    color:white;
+}
+#block{
+    width:100%;
+    height: 100%;
+}
+#menu{
+    width:15%;
+    font-size:20px;
+    background: #003153; 
+    height:1000px;
+    float: left;
+}
+#menu a{
+    padding:20px;
+    font-weight:bold;
+    color:white;
+    text-decoration: none;
+    
+}
+#footer{
+    background:#003153;
+    text-align: center;
+    color: white;
+    margin-top:-15px;
+}
+#footerlogin{
+   text-align: center;
+   padding-top: 20%;
+    
+}
+h3{
+    line-height: 5px;
+}
+.err_msg{
+    color:red;
+    text-decoration:blink;
+    margin-left:100px;
+    margin-bottom:30px;
+}
+.right_heading{
+    width:500px;
+    float:left;
+}
+.user_name{
+    width: 100%;
+    font-family: serif;
+    float:left;
+    text-decoration: aquamarine;
+    height:20px;
+    color:#5EFE50;
+}
+
+#content{
+    padding-left:20px;
+    font-size:20px;
+    margin-left: 15%;
+    background: white;
+    width:83%;
+    height:975px;
+    text-align:center;
+}
+#contents{
+    padding-left:20px;
+    font-size:20px;
+    background: white;
+    width:83%;
+    height:975px;
+    text-align:center;
+}
+.red{
+    color:red;
+}
+#mix{
+    width:100%;
+    height:1000px;
+    
+}
